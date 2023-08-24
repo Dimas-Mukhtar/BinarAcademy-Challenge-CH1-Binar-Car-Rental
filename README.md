@@ -1,0 +1,1 @@
+Website landing page Binar Car Rental yang terdiri dari Navigation, Hero Section, Our Services Section, Why Us Section, Testimonial Section, Banner, FAQ Section dan Footer. Di buat menggunakan Html, Css dan Bootstrap. *Installasi Bootstrap di file ini dilakukan secara online menggunakan link 
